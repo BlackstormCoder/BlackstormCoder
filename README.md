@@ -2,7 +2,7 @@
 
 <p align="center">
   <image src="https://www.hackthebox.eu/badge/image/364927" alt="Hack The Box" style="max-width: 256px; display: inline">
-  <img src="https://tryhackme.com/badge/235625"></img>
+  <img src="https://raw.githubusercontent.com/BlackstormCoder/BlackstormCoder/main/assests/BL4CK5T0RM.png"></img>
 </p>  
   
 
