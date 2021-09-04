@@ -2,7 +2,7 @@
 <script src="[https://tryhackme.com/badge/235625](https://tryhackme.com/badge/235625)"></script>
 https://app.hackthebox.eu/profile/364927
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BL4CK5T0RM.png" alt="TryHackMe">
+{{<img src="https://tryhackme-badges.s3.amazonaws.com/BL4CK5T0RM.png" alt="TryHackMe">}}
 <!--
 **BlackstormCoder/BlackstormCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
