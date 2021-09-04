@@ -1,9 +1,12 @@
 ### Hi there 👋
-<script src="[https://tryhackme.com/badge/235625](https://tryhackme.com/badge/235625)"></script>
-https://app.hackthebox.eu/profile/364927
 
-![tryhackme](https://tryhackme.com/badge/235625)
-{{< image src="https://www.hackthebox.eu/badge/image/364927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
+<image src="https://www.hackthebox.eu/badge/image/364927" alt="Hack The Box" style="max-width: 256px; display: inline">
+
+<image src="https://tryhackme-badges.s3.amazonaws.com/BL4CK5T0RM.png" alt="Tryhackme" style="max-width: 256px; display: inline">
+
+<script src="https://tryhackme.com/badge/235625"></script>
+
+
 <!--
 **BlackstormCoder/BlackstormCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
