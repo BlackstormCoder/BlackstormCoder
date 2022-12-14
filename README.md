@@ -21,6 +21,7 @@ I love doing CTF's and new technology inspired me!
 
   
 ## 🎓Certifications
+- ⚡ eJPT By elearnsecurity  
 - ⚡ Pre Security Learning Path By Tryhackme  
 - ⚡ Complete Beginner Learning Path By Tryhackme
 - ⚡ Offensive Penetration Learning Path By Tryhackme
